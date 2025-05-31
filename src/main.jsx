@@ -6,6 +6,7 @@ import App from './App.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <head>
+      <title>FlowGram</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
     </head>
     
